@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T03:05:49.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="Od6GCTdq1kgV6L4KJeGE" version="13.8.9-1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-04T03:10:41.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="8pM09X0uIEGNnsXWClaV" version="13.8.9-1" type="github">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="716" dy="377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-sCVPr15cj6SJHm08QyO-173" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="100" width="130" height="111" as="geometry" />
+        <mxCell id="-sCVPr15cj6SJHm08QyO-173" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="226" y="88" width="130" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="-sCVPr15cj6SJHm08QyO-174" value="文件m的FSK私钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="170" width="110" height="30" as="geometry" />
+        <mxCell id="-sCVPr15cj6SJHm08QyO-174" value="文件m的FSK私钥" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="236" y="158" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-sCVPr15cj6SJHm08QyO-175" value="文件m的FEK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="130" width="110" height="30" as="geometry" />
+        <mxCell id="-sCVPr15cj6SJHm08QyO-175" value="文件m的FEK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="236" y="118" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-sCVPr15cj6SJHm08QyO-176" value="MEK加密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="106" width="70" height="20" as="geometry" />
+          <mxGeometry x="256" y="94" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-sCVPr15cj6SJHm08QyO-177" value="数据所有者ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="70" width="130" height="30" as="geometry" />
+        <mxCell id="-sCVPr15cj6SJHm08QyO-177" value="数据所有者ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="226" y="58" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-sCVPr15cj6SJHm08QyO-178" value="密钥块&lt;br&gt;DO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-sCVPr15cj6SJHm08QyO-178" value="密钥块&lt;br&gt;DO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-sCVPr15cj6SJHm08QyO-179" value="FSK公钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -31,14 +31,53 @@
         <mxCell id="-sCVPr15cj6SJHm08QyO-181" value="文件名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="240" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-sCVPr15cj6SJHm08QyO-182" value="签名块&lt;br&gt;DO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-sCVPr15cj6SJHm08QyO-182" value="签名块&lt;br&gt;DO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-sCVPr15cj6SJHm08QyO-183" value="FEK加密的文件m" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-sCVPr15cj6SJHm08QyO-183" value="FEK加密的文件m" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="300" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-sCVPr15cj6SJHm08QyO-185" value="对文件m的FSK私钥签名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-sCVPr15cj6SJHm08QyO-185" value="对文件m的FSK私钥签名" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="370" y="300" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCVPr15cj6SJHm08QyO-186" value="FSK公钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCVPr15cj6SJHm08QyO-187" value="时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCVPr15cj6SJHm08QyO-188" value="" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-sCVPr15cj6SJHm08QyO-178" target="-sCVPr15cj6SJHm08QyO-173">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379" y="242" as="sourcePoint" />
+            <mxPoint x="429" y="192" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sCVPr15cj6SJHm08QyO-189" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-sCVPr15cj6SJHm08QyO-178" target="-sCVPr15cj6SJHm08QyO-173">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="231" y="243" as="sourcePoint" />
+            <mxPoint x="429" y="192" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sCVPr15cj6SJHm08QyO-190" value="（MEK，MSK）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="398" y="127" width="98" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCVPr15cj6SJHm08QyO-191" value="" style="endArrow=classic;html=1;entryX=0.969;entryY=0.599;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.309;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-sCVPr15cj6SJHm08QyO-190" target="-sCVPr15cj6SJHm08QyO-176">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225" y="239" as="sourcePoint" />
+            <mxPoint x="275" y="189" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sCVPr15cj6SJHm08QyO-192" value="" style="endArrow=classic;html=1;exitX=0.696;exitY=1.092;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.56;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-sCVPr15cj6SJHm08QyO-190" target="-sCVPr15cj6SJHm08QyO-182">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225" y="239" as="sourcePoint" />
+            <mxPoint x="275" y="189" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sCVPr15cj6SJHm08QyO-193" value="md-file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="251" width="46" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCVPr15cj6SJHm08QyO-194" value="d-file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="311" width="36" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
